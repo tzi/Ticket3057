@@ -66,6 +66,11 @@ section {
     list-style-type: none;
 }
 
+.title--ruban {
+    background: rgba(11, 11, 11, 0.8);
+    color: white;
+}
+
 .pgroup {
     display: inline-block;
 }
